@@ -109,7 +109,7 @@ document.addEventListener("keydown", function(event) {
     tinkSound.play();
   }
   else if (event.key === "l") {
-    tomSound.currentTime = 0;
-    tomSound.play();
+    openhatSound.currentTime = 0;
+    openhatSound.play();
   }
 });
