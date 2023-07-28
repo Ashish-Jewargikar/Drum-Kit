@@ -108,4 +108,8 @@ document.addEventListener("keydown", function(event) {
     tinkSound.currentTime = 0;
     tinkSound.play();
   }
+  else if (event.key === "l") {
+    tinkSound.currentTime = 0;
+    tinkSound.play();
+  }
 });
